@@ -1,7 +1,7 @@
 {
-    "name": "js-patters",
+    "name": "js-patters-singleton",
     "scripts": {
-        "start": "node src/module.js"
+        "start": "node src/index.js"
     },
     "type": "module",
     "version": "0.0.1"
