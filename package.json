@@ -1,0 +1,8 @@
+{
+    "name": "js-patters",
+    "scripts": {
+        "start": "node src/module.js"
+    },
+    "type": "module",
+    "version": "0.0.1"
+}
