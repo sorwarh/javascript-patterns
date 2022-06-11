@@ -1,0 +1,8 @@
+{
+    "name": "js-patters-proxy",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "type": "module",
+    "version": "0.0.1"
+}
